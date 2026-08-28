@@ -1,0 +1,12 @@
+PIXELUGC - GITHUB UPLOAD
+
+Upload these four files directly to the main area of your GitHub repository:
+
+1. index.html
+2. pixelugc-logo.webp
+3. pixelugc-model.webp
+4. UPLOAD-INSTRUCTIONS.txt
+
+Do not create any folders.
+
+After uploading, open Settings > Pages. Choose "Deploy from a branch", select the main branch and / (root), then save.
